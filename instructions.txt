@@ -1,0 +1,16 @@
+Welcome to Float On!
+
+The objective of the game is to dodge all obstacles that come your way.
+Jump when necessary, duck when necessary, just STAY ALIVE.
+
+To dodge the obstacles on the bottom, jump by pressing the UP arrow key.
+To dodge the obstacles on the top, duck by pressing the DOWN arrow key.
+
+The ball automatically resets to the middle after a dodge, 
+so make sure you get the timing of the next dodge JUST right.
+
+If at any point in the game, you feel extremely overwhelmed, do not fret.
+Hit the SPACE BAR and you can pause the game.
+Hit it again and jump back in.
+
+Ready, set, GO!
